@@ -56,7 +56,7 @@
 @property (nonatomic, assign) IBInspectable CGFloat cornerRadius;
 ```
 这样完成以后,就可以在 IB中看到添加的属性,如同下图:
-![](http://img.blog.csdn.net/20160806162806847)
+![](http://chuantu.biz/t5/25/1470473144x3738746535.png)
 
 ####3.这样以后设置圆角属性就方便了,不用再对 UIView通过代码设置即可实现圆角属性
 
